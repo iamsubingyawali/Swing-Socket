@@ -1,0 +1,4 @@
+Attempted UDP Connection...
+
+
+Client: Hi Java UDP Server !
